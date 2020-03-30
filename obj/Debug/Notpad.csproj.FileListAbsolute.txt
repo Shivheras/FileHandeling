@@ -1,0 +1,6 @@
+D:\Office\Tasks\Notpad\Notpad\bin\Debug\Notpad.exe.config
+D:\Office\Tasks\Notpad\Notpad\bin\Debug\Notpad.exe
+D:\Office\Tasks\Notpad\Notpad\bin\Debug\Notpad.pdb
+D:\Office\Tasks\Notpad\Notpad\obj\Debug\Notpad.csprojAssemblyReference.cache
+D:\Office\Tasks\Notpad\Notpad\obj\Debug\Notpad.exe
+D:\Office\Tasks\Notpad\Notpad\obj\Debug\Notpad.pdb
